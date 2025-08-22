@@ -31,3 +31,7 @@ cd "C:\Users\YourName\Downloads"
 ```powershell
 .\setup.ps1
 ```
+or
+```powershell
+.\extras.ps1
+```
